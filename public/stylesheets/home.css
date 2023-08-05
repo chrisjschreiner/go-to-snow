@@ -41,6 +41,7 @@ header {
 .btn-secondary:hover {
   color: #646464;
   text-shadow: none;
+  width: max-content;
 }
 
 main {
