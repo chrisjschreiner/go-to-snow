@@ -28,7 +28,10 @@ module.exports.renderLogin = (req, res) => {
 };
 
 module.exports.login = (req, res) => {
-  req.flash("success", "Welcome back!");
+  req.flash(
+    "success",
+    "Welcome back! Find a resort on the map to explore, or add your own"
+  );
   const redirectUrl = req.session.returnTo || "/resorts";
   delete req.session.returnTo;
   res.redirect(redirectUrl);
