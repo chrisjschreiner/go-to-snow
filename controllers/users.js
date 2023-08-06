@@ -13,7 +13,7 @@ module.exports.register = async (req, res, next) => {
       if (err) return next(err);
       req.flash(
         "success",
-        "Welcome to Go to Snow! Find a resort on the map to explore, or add your own"
+        "Welcome to Go to Snow! Find a resort on the map to explore, or add your own from the menu."
       );
       res.redirect("/resorts");
     });
@@ -30,7 +30,7 @@ module.exports.renderLogin = (req, res) => {
 module.exports.login = (req, res) => {
   req.flash(
     "success",
-    "Welcome back! Find a resort on the map to explore, or add your own"
+    "Welcome back! Find a resort on the map to explore, or add your own from the menu."
   );
   const redirectUrl = req.session.returnTo || "/resorts";
   delete req.session.returnTo;
