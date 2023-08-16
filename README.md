@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="src/assets/logo_black.png" alt="Logo" width="80" height="90">
+<img src="public/assets/logo_black.png" alt="Logo" width="80" height="90">
 
-<h3 align="center">Spanish Verb Conjugator</h3>
+<h3 align="center">Go To Snow</h3>
 
   <p align="center">
-    Conjugate 600+ Spanish verbs into all moods and tenses with this app inspired by my love for languages.
+    Explore U.S. ski resort destinations on a map. Learn of others' experiences or create an account to share your own.
     <br />
-    <a href="https://spanish-verb-conjugator.onrender.com"><Strong>View Site »</Strong></a>
+    <a href="https://go-to-snow.cyclic.app/"><Strong>View Site »</Strong></a>
   </p>
 </div>
 
@@ -58,7 +58,7 @@ Chris Schreiner - chrisjschreiner@gmail.com
 [license-url]: https://github.com/chrisjschreiner/Portfolio/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: public/screenshot_readme.png
+[product-screenshot]: public/assets/screenshot_readme.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
