@@ -30,7 +30,7 @@
 
 ## Built With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,nodejs,mongodb,vite,tailwind,vscode&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,nodejs,mongodb,vscode&perline=18)](https://skillicons.dev)
 
 <!-- LICENSE -->
 ## License
