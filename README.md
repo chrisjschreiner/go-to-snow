@@ -30,7 +30,7 @@
 
 ## Built With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,nodejs,mongodb,vscode&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,js,express,nodejs,mongodb,vscode&perline=18)](https://skillicons.dev)
 
 Other technologies include mapbox, bcrypt, cloudinary, connect-flash, ejs, helmet, mongoose, multer, passport, sanitize-html.
 
